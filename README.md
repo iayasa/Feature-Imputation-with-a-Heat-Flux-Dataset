@@ -12,10 +12,7 @@ El objetivo de esta competición es desarrollar modelos de aprendizaje automáti
 
 ## Estructura del repositorio:
 
-- **train.csv**: Archivo CSV que contiene el conjunto de entrenamiento con los valores completos.
-  <br>
-
-- **test.csv**: Archivo CSV que contiene el conjunto de prueba con los valores faltantes que deben ser imputados.
+- **Data**: Archivo que incluye los datos para el proyecto y un ejemplo de submission para cargar los datos en Kaggle. 
   <br>
 
 - **submission.csv**: Archivo CSV de muestra que muestra el formato requerido para la presentación de resultados.
@@ -24,9 +21,6 @@ El objetivo de esta competición es desarrollar modelos de aprendizaje automáti
 - **notebooks**: Carpeta que contiene los cuadernos de Jupyter utilizados en el análisis exploratorio de datos, desarrollo de modelos y evaluación de resultados.
   <br>
 
-- **scripts**: Carpeta que contiene scripts adicionales utilizados para preprocesamiento de datos y otras tareas relacionadas.
-  <br>
-  
 - **README.md**: Archivo que proporciona información sobre la competición y el uso del repositorio.
   <br>
 
